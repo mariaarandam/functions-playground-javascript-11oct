@@ -7,6 +7,7 @@
  */
 function isUpperCase(word) {
   return true;
+
 }
 
 /**
